@@ -4,7 +4,7 @@ go 1.26.0
 
 require (
 	github.com/plexusone/omnillm-core v0.18.1
-	github.com/tmc/langchaingo v0.1.14
+	github.com/tmc/langchaingo v0.1.15
 )
 
 require (
